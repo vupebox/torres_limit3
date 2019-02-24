@@ -19,6 +19,11 @@ int flag4 = 0;
 //led8=blanco
 //led9=rojo
 //led10=amarillo
+
+//led8=IN8, led9=IN2, 1ed10=IN3, led12=IN4, led13=IN5 (IN5=rele unitario)
+//Lswitch2=Rojo cable 2 hilos,Lswitch3=negro 4hilos, Lswitch5=rojo 4 hilos, Lswitch6=verde 4hilos,Lswitch7=amarillo 4hilos
+//IN1=blanco, IN2=rojo,IN3=amarillo,IN4azul,IN5 rele solo=verde
+
 void setup(){
 
   pinMode(Lswitch2,INPUT);
