@@ -19,6 +19,7 @@ int flag4 = 0;
 //led8=blanco
 //led9=rojo
 //led10=amarillo
+//cambio git
 
 //led8=IN8, led9=IN2, 1ed10=IN3, led12=IN4, led13=IN5 (IN5=rele unitario)
 //Lswitch2=Rojo cable 2 hilos,Lswitch3=negro 4hilos, Lswitch5=rojo 4 hilos, Lswitch6=verde 4hilos,Lswitch7=amarillo 4hilos
